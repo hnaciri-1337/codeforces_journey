@@ -4,11 +4,11 @@
 
 #### + The tool that make it easy !
 
-#####codeforces_journey is a tool that generate github repository for you codeforces progress !
+##### codeforces_journey is a tool that generate github repository for you codeforces progress !
 
-#####and it's simple to use .
+##### and it's simple to use .
 
-#####<a href="https://github.com/hnaciri-1337/codeforces">Click here to see an example</a>
+##### <a href="https://github.com/hnaciri-1337/codeforces">Click here to see an example</a>
 
 ###### First thing you need to clone this repository !
 
