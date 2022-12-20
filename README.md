@@ -4,6 +4,9 @@
 
 #### + The tool that make it easy !
 
+codeforces_journey is a tool that generate github repository for you codeforces progress !
+
+and it's simple to use .
 
 ###### First thing you need to clone this repository !
 
