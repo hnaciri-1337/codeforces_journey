@@ -36,9 +36,3 @@ codeforces_journey
 
 
 <img src="./assistance/images/second.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-###### If you need to uninstall the tool just run
-
-```bash
-bash uninstaller.sh
-```
