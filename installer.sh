@@ -11,9 +11,6 @@ fi
 cp "$EXECUTABLE_PATH" "$TARGET_DIR"
 chmod +x "$TARGET_DIR/$EXECUTABLE_NAME"
 
-echo $EXECUTABLE_PATH
-echo $TARGET_DIR/$EXECUTABLE_NAME
-
 if [[ -f "$HOME/.bashrc" ]]; then
     echo "export PATH=\"$TARGET_DIR:\$PATH\"" >> "$HOME/.bashrc"
     source "$HOME/.bashrc"
